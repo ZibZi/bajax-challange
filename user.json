@@ -1,0 +1,33 @@
+[
+    {
+      "hint" : " juan merupakan anak gen Z dia sering sekali menambahkan XYZ di setiap akhiran namanya dia juga merupakan anak kelahiran 12 mei 2000",
+      "username": "juanXYZ",
+      "password": "Juan120500"
+    },
+    {
+      "hint" : "amanda merupakan perempuan yang suka sekali dengan suatu minuman dan sering menambahkan nya entah pada username, dia juga kadang sering membuat password juga menggunakan nama dari makanan kesukaanya. list nya bisa klik button sebelah login untuk akses sheet",
+      "username" : "susujahe",
+      "password" : "Madu2020"
+    },
+    {
+      "hint" : "udin sangat menyayangi bapaknya sehingga dia selalu memasukan nama bapaknya sebagai username dan juga sering menggunakan passowrd dengan nama ibu nya sendiri. list nya bisa klik button sebelah login untuk akses sheet",
+      "username" : "jamaludin",
+      "password" : "rismayanti2090"
+    },
+    {
+      "hint" : "alwy merupakan seorang mahasiswa dia selalu membalikan namanya untuk membuat username dan juga menggunakan password dengan username+tahun kelahirannya. list nya bisa klik button sebelah login untuk akses sheet",
+      "username" : "ywla",
+      "password" : "ywla2002"
+    },
+    {
+      "hint" : "syahrul merupakan mahasiswa angkatan 20 informatika UIN SGD, dari seluruh mahasiswa informatika dia berabsen 66 , dia menggunakan nama sebagai usernamenya dan menggunakan usename+nim untuk passwordnya. list nya bisa klik button sebelah login untuk akses sheet ",
+      "username" : "syahrul",
+      "password" : "syahrul1207050066"
+    },
+    {
+      "hint" : "dia merupakan malware yang digunakan untuk  memasuki perangkat komputer anda untuk mengambil sebuah informasi/memata-matai anda. dia adalah username. passwordnya merupakan kebalikan dari usernamenya. list nya bisa klik button sebelah login untuk akses sheet",
+      "username" : "spyware",
+      "password" : "erawyps"
+    }
+
+]
